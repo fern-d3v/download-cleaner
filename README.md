@@ -1,3 +1,8 @@
+[![Node](https://img.shields.io/badge/node-%3E%3D18-green)](https://nodejs.org)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fernd3v)
+
+<img src="./logo.png" alt="Tidy Download CLI logo" width="" />
+
 # Download Cleaner
 
 A simple CLI tool to automatically organize your Downloads folder.
