@@ -1,6 +1,6 @@
 {
   "name": "tidy-downloads",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI tool to automatically organize the Downloads folder.",
   "main": "cleaner.js",
   "type": "module",
