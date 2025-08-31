@@ -3,8 +3,7 @@
 
 <img src="./logo.png" alt="Tidy Download CLI logo" width="" />
 
-# Download Cleaner
-
+# Tidy Downloads
 A simple CLI tool to automatically organize your Downloads folder.
 
 ## Description
@@ -15,11 +14,11 @@ This tool scans your Downloads folder and moves files into categorized subdirect
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/download-cleaner.git
+    git clone https://github.com/your-username/tidy-downloads.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd download-cleaner
+    cd tidy-downloads
     ```
 3.  Install the dependencies:
     ```bash
