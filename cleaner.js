@@ -109,7 +109,7 @@ async function cleanDownloads(isDryRun = false) {
 
 // --- Script Entry Point ---
 async function main() {
-    console.log(chalk.gray(await figlet('Download\nCleaner', { font: 'ANSI Shadow' })));
+    console.log(chalk.gray(await figlet('tidy\ndownloads', { font: 'ANSI Shadow' })));
 
     const isDryRun = process.argv.includes('--dry-run');
 
