@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // A CLI tool to automatically organize the Downloads folder.
 
 import fs from 'fs/promises';

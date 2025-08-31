@@ -4,6 +4,9 @@
   "description": "A CLI tool to automatically organize the Downloads folder.",
   "main": "cleaner.js",
   "type": "module",
+  "bin": {
+    "download-cleaner": "cleaner.js"
+  },
   "scripts": {
     "start": "node cleaner.js",
     "test": "echo \"Error: no test specified\" && exit 1"
